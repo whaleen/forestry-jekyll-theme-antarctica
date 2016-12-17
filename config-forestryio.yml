@@ -1,0 +1,14 @@
+---
+title: Antarctic Tachyons
+email: joshuavaage@gmail.com
+description: |
+  Because bandwidth is awful scarce out south
+baseurl: ''
+url: ''
+markdown: kramdown
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+timezone: America/Los_Angeles
